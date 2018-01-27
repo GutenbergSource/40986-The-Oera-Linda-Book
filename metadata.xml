@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Oera Linda Book</dc:title>
+      <dc:creator>Anonymous</dc:creator>
+      <dc:creator>Jan Gerhardus Ottema (1804–1879)</dc:creator>
+      <dc:creator>William R. Sandbach</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2012-10-08</dc:publisher>
+      <dc:date>2012-10-08</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Scans of this work are available on-line at the Internet Archive (copy 1, 2, 3, 4).
+
+ Since none of the available scans of the English edition include the complete set of illustrations, these have been taken from the Dutch original.
+
+ The new front cover has been designed by the transcriber from in the original book, and is placed into the public domain.
+
+ </dc:rights>
+      <dc:description>The Oera Linda Book is a manuscript that claims that the Frisian people are the source of western civilization, and links them with the old legend of Atlantis. It first showed up in 1872, and although it was relatively quickly recognized as a falsification, the controversy around this book has not yet ended. The open issue is who did it.</dc:description>
+      <dc:identifier>pg:40986</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
